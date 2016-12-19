@@ -1,7 +1,7 @@
 #dist
-##A tool to calculate nucleotide diversity
+A tool to calculate nucleotide diversity
 
-##The part of loading PLINK .tped & .tfam file is using PLINK 1.7 as a reference.
+The part of loading PLINK .tped & .tfam file is using PLINK 1.7 as a reference.
 
 ##Install:
 * g++ dist.cpp -o dist
